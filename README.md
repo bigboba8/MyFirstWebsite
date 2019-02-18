@@ -1,6 +1,6 @@
-## Welcome to my First Website
+## Hello, My names Elton!
 
-You can use the [editor on GitHub](https://github.com/eltonwee/MyFirstWebsite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here is my linkedin(https://www.linkedin.com/in/elton-wee-b91780127/) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
