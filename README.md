@@ -1,6 +1,6 @@
 ## Hello, My names Elton!
 
-Here is my linkedin(https://www.linkedin.com/in/elton-wee-b91780127/) 
+Here is my [linkedin](https://www.linkedin.com/in/elton-wee-b91780127/) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
