@@ -1,13 +1,10 @@
-## Hello, My names Elton!
+## Hello, My name is Elton!
 
 Here is my [linkedin](https://www.linkedin.com/in/elton-wee-b91780127/) 
+ 
+### Alittle about me 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+I am a 22 year old computer science student in my 4th year attending the University of North Texas. I love playing basketball and video games. 
 ```markdown
 Syntax highlighted code block
 
